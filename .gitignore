@@ -1,0 +1,12 @@
+# Folder virtual environment Python
+.venv/
+
+# Folder data Qdrant
+qdrant_storage/
+
+# File environment yang berisi API Key
+.env
+
+# File cache Python
+__pycache__/
+*.pyc
